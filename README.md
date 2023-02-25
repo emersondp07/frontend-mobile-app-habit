@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto é uma parte de três, foi desenvolvido o frontend web de uma app de criação e rastreamento de hábitos. Foi criado um sumario gerando todos os dias do ano, componentes de criação, modificação de estado e visualização dos hábitos feitos ou há fazer nos dias.
+Esse projeto é uma parte de três, foi desenvolvido o frontend mobile de uma app de criação e rastreamento de hábitos. Foi criado um sumario gerando todos os dias do ano, componentes de criação, modificação de estado e visualização dos hábitos feitos ou há fazer nos dias.
 
 ## 🔖 Iniciando Projeto
 
